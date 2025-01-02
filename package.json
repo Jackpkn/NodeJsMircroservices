@@ -19,6 +19,7 @@
     "typescript": "^5.7.2"
   },
   "dependencies": {
+    "celebrate": "^15.0.3",
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
     "tsc": "^2.0.4"
